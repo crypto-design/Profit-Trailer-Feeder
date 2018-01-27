@@ -36,12 +36,17 @@ PT Feeder - это плагин для Profit Trailer, который в реа�
 YouTube канал Crypto Design - https://www.youtube.com/channel/UCStysobnjunUYrIfC1027Ag
 
 Офф сайт бота Profit Trailer - https://profittrailer.ru
+
 Скачать последнюю актуальную версию Profit Trailer - https://github.com/taniman/profit-trailer/releases
+
 Почитать документацию Profit Trailer тут - https://wiki.profittrailer.io/doku.php/start?id=ru:start
+
 Русскоязычный чат Profit Trailer в Telegram - https://t.me/joinchat/DreUUw-n-aGoi2LunoJTFA
 
 Офф сайт плагина Profit Trailer Feeder - https://cryptoprofitbot.com/?ref=TimurB
+
 Почитать документацию PT Feeder тут - https://github.com/mehtadone/PTFeeder/wiki
+
 Скачать последнюю актуальную версию PT Feeder - https://github.com/mehtadone/PTFeeder/releases
 
 Биржа Binance - https://www.binance.com/?ref=20781679
