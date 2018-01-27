@@ -1,0 +1,18 @@
+{
+  "Host": {
+    "TrexPairsLocation": "/var/opt/pt/trading",
+    "PoloPairsLocation": "",
+    "BinancePairsLocation": "",
+    "LicenseKey": "1111-1111-1111-1111-1111-1111-1111",
+    "ServerUrls": "http://localhost:8083",
+    "MarketConditionCheckInMinutes": "3",
+    "CalculateTrailingValues": "true",
+    "UseMaxCostPercentage": "true",
+    "UseMinBuyBalancePercentage": "true",
+    "TelegramBotId": "123456789:XXXXXXXXXXXXXXX",
+    "TelegramChatId": "123456789"
+  },
+  "Serilog": {
+    "MinimumLevel": "Debug"
+  }
+}
