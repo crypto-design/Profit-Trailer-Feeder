@@ -30,8 +30,11 @@ PT Feeder - это плагин для Profit Trailer, который в реа�
 Хороший VDS сервер VULTR 4Gb / SSD-60Gb: $20 / месяц -  https://www.vultr.com/?ref=7313176
 
 Полезные ссылки:
+
 Канал Crypto Design в Telegram - https://t.me/crypto_design
+
 YouTube канал Crypto Design - https://www.youtube.com/channel/UCStysobnjunUYrIfC1027Ag
+
 Офф сайт бота Profit Trailer - https://profittrailer.ru
 Скачать последнюю актуальную версию Profit Trailer - https://github.com/taniman/profit-trailer/releases
 Почитать документацию Profit Trailer тут - https://wiki.profittrailer.io/doku.php/start?id=ru:start
